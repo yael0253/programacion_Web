@@ -1,0 +1,38 @@
+body{
+    margin: 5rem;
+    background-color: rgb(159, 180, 238);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+}
+strong{
+    color: red;
+}
+.institucion{
+    color: green;
+}
+#pespecial{
+    font-size: 2rem;
+    color: rgb(0, 68, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+#h1principal{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(0, 2, 138);
+
+}
+#h2principal{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(4, 53, 82);
+}
+#h2especial{
+    font-size: 2rem;
+    color: rgb(0, 68, 255);
+    text-align: center;
+}
+#Img1{
+    margin: auto;
+}

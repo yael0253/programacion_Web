@@ -1,0 +1,19 @@
+body{
+    background-color: darkgrey;
+}
+#encabezado1{
+    color: rgb(100, 100, 158);
+}
+#encabezado2{
+    color: rgb(31, 31, 121);
+}
+.margenImg{
+    margin-top: 3rem;
+}
+#video{
+    margin-bottom: 3rem
+}
+#titulo2{
+    color: blue;
+    font-size: 1.7rem;
+}
